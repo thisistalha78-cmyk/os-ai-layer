@@ -17,4 +17,3 @@ JSON format:
   "target": "https://example.com"
 }}
 """
-
